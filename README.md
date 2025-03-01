@@ -3,7 +3,7 @@
 ## Muhammad Ibrahim
 - **GIAIC Student ID Number:** 00257166
 - **Slot:** Section B (Wednesday Evening)
-- **Growth Mindset Challenge Web App Deployed URL:** https://growthmindsetchallenge-aiw6ukh5z6qujfbpywh4sj.streamlit.app/
+- **Growth Mindset Challenge Web App Deployed URL:** https://ibrahim-growth-mindset-challenge.streamlit.app/
 
 ---
 
@@ -32,7 +32,7 @@ A **Streamlit**-based web application that allows users to:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Ibrahimnazee
+git clone https://github.com/Ibrahimnazee/Growth_Mindset_Challenge
 cd Growth_Mindset_Challenge
 ```
 
